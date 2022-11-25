@@ -1,0 +1,8 @@
+{"intents": [
+{ "Tag" : "about",
+   "Patterns" : ["Who are You ?", "Tell me about you"],
+   "Response" : [ "I am a Chatbot, Created by EI Students"],
+    "Context" : [ " "]
+},
+ { "Tag" : "JSSSTU",
+ 
