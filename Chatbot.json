@@ -5,4 +5,7 @@
     "Context" : [ " "]
 },
  { "Tag" : "JSSSTU",
+     "Patterns" : ["streams offered in JSSSTU, MYSURU", "Tell me about you"],
+   "Response" : [ "EI, EC, CS, IS, EE, MECH, CIVIL, ENV, IP "],
+    "Context" : [ " "]
  
